@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Time Sync Demo</string>
+    <string name="checkbox_text">Enable auto sync time from network</string>
+    <string name="connecting">Connecting service...</string>
+    <string name="connected">Service connected</string>
+    <string name="disconnected">Service disconnected</string>
+
+</resources>
